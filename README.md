@@ -5,7 +5,7 @@ Import question using excel for question type multichoice, description, essay an
 ## how to use ##
 ### excel format ###
 Excel Header | Mandatory | Description
------------- | -------------
+------------ | ------------- | -------------
 type | required | you only can use these value **multichoice**, **description**, **essay**, **match** and **truefalse**
 name | optional | the name of the question
 question |	required | the question content
