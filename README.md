@@ -3,6 +3,9 @@
 Import question using excel for question type multichoice, description, essay and truefalse
 
 ## how to use ##
+in the import question form you can choose **Excel Import** in the **file format** tab.
+then upload the **.xls** or **.xlsx** file to import the questions.
+[import question](https://docs.moodle.org/33/en/Import_questions)
 ### excel format ###
 Excel Header | Mandatory | Description
 ------------ | ------------- | -------------
